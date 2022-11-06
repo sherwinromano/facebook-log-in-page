@@ -1,3 +1,3 @@
 # facebook-clone
 
-Basic Clone
+Originally made by sherwin romano :)
